@@ -1,2 +1,2 @@
 #!/bin/bash
-head -n 11 | tail -n 1 */iacta
+mv iacta_0 iacta && head -3 iacta | tail -1
