@@ -1,2 +1,2 @@
 #!/bin/bash
-head -n ligne_3 iacta
+head -n 3 iacta
