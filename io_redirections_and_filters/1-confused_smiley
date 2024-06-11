@@ -1,2 +1,2 @@
 #!/bin/bash
-export PS1="(~to)"
+cat smiley Ôo
