@@ -1,0 +1,2 @@
+#!/bin/bash
+awk -v ligne=11 ' NR == ligne { print $0}' ~/iacta
