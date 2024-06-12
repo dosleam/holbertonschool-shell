@@ -74,13 +74,13 @@ head : Affiche les premières lignes d'un fichier.
 
 tail : Affiche les dernières lignes d'un fichier.
 
-find : Recherche des fichiers dans un répertoire et ses sous-répertoires selon des critères spécifiq
+find : Recherche des fichiers dans un répertoire et ses sous-répertoires selon des critères spécifique.
 
-wc : Compte les lignes, les mots et les caractères dans un fichier
+wc : Compte les lignes, les mots et les caractères dans un fichier.
 
 sort : Trie les lignes d'un fichier texte.
 
-uniq : Filtre les lignes répétées consécutivement dans un fichier, souvent utilisé a'sort'.
+uniq : Filtre les lignes répétées consécutivement dans un fichier, souvent utilisé a 'sort'.
 
 grep : Recherche des motifs dans un fichier.
 
