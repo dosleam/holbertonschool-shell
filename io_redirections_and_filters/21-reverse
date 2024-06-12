@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /holbertonschool-shell/io_redirections_and_filters/21-reverse | nl | sort -n -r | cut -f2
+echo ./21-reverse | rev
