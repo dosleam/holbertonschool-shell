@@ -108,7 +108,7 @@ unalias : Supprime des alias définis.
 
 . : Exécute un script dans le shell courant.
 
-source : xécute un script dans le shell courant. Identiqe a la commande '.' 
+source : Exécute un script dans le shell courant. Identiqe a la commande '.' 
 
 printf : Formatte et affiche des données selon un format spécifi
 
