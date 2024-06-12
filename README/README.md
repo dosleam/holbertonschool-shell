@@ -32,7 +32,7 @@ less : Utilitaire permettant de visualiser le contenu d'un fichier texte une pag
 
 file : Permet de déterminer le type d'un fichier.
 
-ln : Utilisé pour créer des liens (links) entre fichiers. Les liens peuvent être symboliques (symlinks) ou physiquehard links).
+ln : Utilisé pour créer des liens (links) entre fichiers. Les liens peuvent être symboliques (symlinks) ou physique (hard links).
 
 type : Affiche le type d'une commande dans le shell, indiquant si c'est une commande intégrée (builtin), un alias, une fonction ou un exécutab
 
