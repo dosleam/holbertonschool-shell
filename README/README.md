@@ -4,7 +4,7 @@
 
 				Shell, navigations :
 
-man : Permet de visionner les contenus d'une documentation formatée pour être exploitable pa'man'.
+man : Permet de visionner les contenus d'une documentation formatée pour être exploitable par 'man'.
 
 pwd : Affiche le chemin absolu du répertoire de travail actuel.
 
