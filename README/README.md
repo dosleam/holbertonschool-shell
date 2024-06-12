@@ -1,4 +1,4 @@
-					WELCOME !
+ 					WELCOME !
 
 	This README compiles all the commands studied during the 'shell' projects.
 
