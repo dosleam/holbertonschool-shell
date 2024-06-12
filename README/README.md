@@ -44,7 +44,7 @@ help : Fournit des informations sur les commandes intégrées (built-in) du shel
 
 chmod : Modifie les permissions d'un fichier ou d'un répertoire.
 
-sudo : Permet a un utilisateur autorisé d'exécuter une commande avec les privilèges d'un autre utilisateur (par défaut, l'utilisateur
+sudo : Permet a un utilisateur autorisé d'exécuter une commande avec les privilèges d'un autre utilisateur (par défaut, l'utilisateur)
 
 su : Permet de changer d'utilisateur dans le shell courant.
 
