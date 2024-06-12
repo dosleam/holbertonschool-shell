@@ -110,6 +110,6 @@ unalias : Supprime des alias définis.
 
 source : Exécute un script dans le shell courant. Identiqe a la commande '.' 
 
-printf : Formatte et affiche des données selon un format spécifi
+printf : Formatte et affiche des données selon un format spécifique.
 
 
