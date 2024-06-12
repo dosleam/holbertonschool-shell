@@ -2,7 +2,7 @@
 
 	This README compiles all the commands studied during the 'shell' projects.
 
-Shell, navigations :
+				Shell, navigations :
 
 man : Permet de visionner les contenus d'une documentation formatée pour être exploitable pa'man'.
 
@@ -26,7 +26,7 @@ mkdir : Crée des répertoires.
 
 rmdir : Supprime des répertoires vides.
 
-Shell, basics :
+				Shell, basics :
 
 less : Utilitaire permettant de visualiser le contenu d'un fichier texte une page a la fois.
 
@@ -40,7 +40,7 @@ which : Localise l'emplacement d'un exécutable en cherchant dans les répertoir
 
 help : Fournit des informations sur les commandes intégrées (built-in) du shel
 
-Shell, permissions :
+				Shell, permissions :
 
 chmod : Modifie les permissions d'un fichier ou d'un répertoire.
 
@@ -64,7 +64,7 @@ useradd : Ajoute un nouvel utilisateur au système. Elle est souvent utilisée a
 
 addgroup : Ajoute un nouveau groupe au système
 
-Shell, I/O Redirections and filters : 
+				Shell, I/O Redirections and filters : 
 
 echo : Affiche une ligne de texte dans le terminal.
 
@@ -92,7 +92,7 @@ cut : Extrait des sections de chaque ligne d'un fichier.
 
 passwd : Change le mot de passe d'un utilisateur.
 
-Shell, init files, variables and expansions :
+				Shell, init files, variables and expansions :
 
 printenv : Affiche les variables d'environnement et leurs valeurs.
 
